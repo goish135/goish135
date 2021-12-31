@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm 瑜 - aka goish !
 
 <!--
 **goish135/goish135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on TSMC
+- 🌱 I’m currently learning React Hooks
+- 👯 I’m looking to collaborate on FAC
+- 🤔 I’m looking for help with fullend Pro
+- 💬 Ask me about Netflix Disney+ Google Podcast
+- 📫 How to reach me: IT-help mail
+- 😄 Pronouns: Taichung
+- ⚡ Fun fact: travel sleep coding 
