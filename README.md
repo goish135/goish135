@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with fullend Pro
 - 💬 Ask me about Netflix 、 Disney+ 、 Google 、 Podcast
 - 📫 How to reach me: IThelp 、 mail
-- 😄 Pronouns: Taichung
+
 - ⚡ Fun fact: travel sleep coding 
