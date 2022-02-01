@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
+ 
 - 🔭 I’m currently working on TSMC
 - 🌱 I’m currently learning React Hooks
 - 👯 I’m looking to collaborate on FAC
