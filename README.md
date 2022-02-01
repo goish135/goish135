@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
 - 🔭 I’m currently working on TSMC
 - 🌱 I’m currently learning React Hooks
-- 👯 I’m looking to collaborate on FAC
+
 - 🤔 I’m looking for help with fullend Pro
 - 💬 Ask me about Netflix 、 Disney+ 、 Google 、 Podcast
 - 📫 How to reach me: IThelp 、 mail
