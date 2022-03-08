@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
  
-- 🔭 I’m currently working on TSMC
-- 🌱 I’m currently learning React Hooks
+- I Love Beer: 18 days
+- 🌱 ~I’m currently learning React Hooks~
 
 - 🤔 I’m looking for help with fullend Pro
-- 💬 Ask me about Netflix 、 Disney+ 、 Google 、 Podcast
+- 💬 Ask me about Netflix 、 Disney+ 、 **Google** 、 Podcast、Switch、Bowling
 - 📫 How to reach me: IThelp 、 mail
 
 - ⚡ Fun fact: travel sleep coding 
