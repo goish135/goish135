@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - I Love Beer: 18 days
 - 🌱 ~I’m currently learning React Hooks~
 
-- 🤔 I’m looking for help with fullend Pro
+- i want to be a full-stack enginner also a Architect
 - 💬 Ask me about Netflix 、 Disney+ 、 **Google** 、 Podcast、Switch、Bowling
 - 📫 How to reach me: IThelp 、 mail
 
