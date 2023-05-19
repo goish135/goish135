@@ -18,10 +18,11 @@ Here are some ideas to get you started:
  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
  
 - I Love Beer: 18 days & Long Island Iced Tea (MAX)
+ - no time no get drunk  
 
 
 - i want to be a full-stack enginner also a Architect
 - 💬 Ask me about Netflix 、 **Google** 、 Podcast
 - 📫 How to reach me: IThelp 、 mail
 
-- ⚡ Fun fact: travel sleep coding 
+- ⚡ Fun fact: travel sleep coding 桌遊 Dart
