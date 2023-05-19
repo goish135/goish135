@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
  
 - I Love Beer: 18 days & Long Island Iced Tea (MAX)
-- - Long time no get drunk  
+  - Long time no get drink  
 
 
 - i want to be a full-stack enginner also a Architect
