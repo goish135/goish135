@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   - Long time no get drink  
 
 
-- i want to be a full-stack enginner also a Architect
-- 💬 Ask me about Netflix 、 Spider Universe 、 Podcast
+- i want to be a ~full-stack~(So tired) enginner also a Architect
+- 💬 Ask me about Netflix 、 Spider Universe 、 Podcast、Disney +
 - 📫 How to reach me: IThelp 、 mail
 
 - ⚡ Fun fact: travel sleep coding 桌遊 Dart
