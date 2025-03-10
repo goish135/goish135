@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 - i want to be a ~full-stack~(So tired) enginner also a Architect
-- 💬 Ask me about Netflix 、 Spider Universe 、 Podcast
+- 💬 Ask me about Netflix 、 Podcast
 - 📫 How to reach me: IThelp 、 mail
 
 - ⚡ Fun fact: travel sleep coding 桌遊 Dart
