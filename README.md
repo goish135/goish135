@@ -18,6 +18,6 @@ Here are some ideas to get you started:
  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
 --> 
  
-- i want to be a ~full-stack~(So tired) enginner also a Architect
+- I want to be a ~full-stack~(So tired) enginner also a Architect
 
 
