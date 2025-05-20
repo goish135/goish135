@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
- <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
+Loki Prometheus Log Monitor : https://chatgpt.com/share/682c8a5b-eed4-8001-9d1c-522a791e97aa
+Log-based Alerts Kibana : https://chatgpt.com/share/682c8921-eacc-8001-a7be-23ed1f533b0a
 --> 
