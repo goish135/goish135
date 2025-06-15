@@ -19,4 +19,5 @@ Loki Prometheus Log Monitor : https://chatgpt.com/share/682c8a5b-eed4-8001-9d1c-
 Log-based Alerts Kibana : https://chatgpt.com/share/682c8921-eacc-8001-a7be-23ed1f533b0a
 Specific API Gateway | Conclude the requirement : https://hackmd.io/@resolved/specific_api_gw
 log_based_observability | https://hackmd.io/@resolved/log_based_observability
+Cloud Run | https://chatgpt.com/share/684c132e-5920-8001-9aef-5a2cd2d3b3f6
 --> 
