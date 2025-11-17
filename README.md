@@ -1,4 +1,4 @@
-### Hi there, I'm 瑜 - aka goish !
+### Hi there, I'm 瑜!
 
 <!--
 **goish135/goish135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
