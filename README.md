@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with habitable area.
 - 💬 Ask me about Side Project(s), Open Source Software, Kubernetes, New Technology.
 - 📫 How to reach me: mail, itHelp(IT 邦幫忙).
+- `#1` link: [IT 邦幫忙/阿瑜(justrun)](https://ithelp.ithome.com.tw/users/20111516)
+- `#2` link: 
   
 <!--
 Loki Prometheus Log Monitor : https://chatgpt.com/share/682c8a5b-eed4-8001-9d1c-522a791e97aa
