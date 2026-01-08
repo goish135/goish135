@@ -1,4 +1,4 @@
-### Hi there, I'm 瑜!
+### Hi there, I'm 瑜(PY)!
 
 <!--
 **goish135/goish135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on API Gateway / `Apache-APISIX`, Blue Green / `Argo Rollouts`.
+- 🌱 I’m currently learning Strength Training & Aerobic Training, Table Tennis, Project Management, Western Art History, Investment, ...etc
+- 👯 I’m looking to collaborate on SRE, Platform team, DevOps.
+- 🤔 I’m looking for help with habitable area.
+- 💬 Ask me about Side Project(s), Open Source Software, Kubernetes, New Technology.
+- 📫 How to reach me: mail, itHelp(IT 邦幫忙).
+  
 <!--
 Loki Prometheus Log Monitor : https://chatgpt.com/share/682c8a5b-eed4-8001-9d1c-522a791e97aa
 Log-based Alerts Kibana : https://chatgpt.com/share/682c8921-eacc-8001-a7be-23ed1f533b0a
