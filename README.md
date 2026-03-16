@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - `#2` link: [Pin-Yu Su](https://www.linkedin.com/in/pin-yu-017/)
   
 <!--
+Developer Portal | Developer Success: https://itplus.ithome.com.tw/vod-page/1038?utm_source=iThelp
 Loki Prometheus Log Monitor : https://chatgpt.com/share/682c8a5b-eed4-8001-9d1c-522a791e97aa
 Log-based Alerts Kibana : https://chatgpt.com/share/682c8921-eacc-8001-a7be-23ed1f533b0a
 Specific API Gateway | Conclude the requirement : https://hackmd.io/@resolved/specific_api_gw
